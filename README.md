@@ -1,1 +1,1 @@
-# Basics-FullStack
+I've completed a basic HTML and CSS project featuring lists, and login and sign-up pages. My next goals are to build a personal portfolio website and a responsive blog layout to showcase my skills. I'll enhance my current project with form validation, advanced styling, and responsive design. I plan to use resources like MDN Web Docs and FreeCodeCamp for further learning. Additionally, I aim to learn JavaScript for interactivity and explore front-end frameworks like React to create more sophisticated web applications.
